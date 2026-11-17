@@ -1,5 +1,9 @@
 # Progress Tracking 
 
+# Week 1: 11/9
+## Intro Meeting
+
+# Week 2: 11/16
 ## 1st Meeting: November 18, 2026
 
 ### To-Do 
